@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vaulto</string>
+    <string name="app_tagline">Your Secure Password Manager</string>
+    
+    <!-- Features -->
+    <string name="feature_encryption">AES-256 Encryption</string>
+    <string name="feature_offline">Offline-First</string>
+    <string name="feature_autofill">Auto-fill Support</string>
+    <string name="feature_totp">TOTP Authenticator</string>
+    
+    <!-- Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_generate">Generate</string>
+    
+    <!-- Messages -->
+    <string name="msg_copied">Copied to clipboard</string>
+    <string name="msg_saved">Saved successfully</string>
+    <string name="msg_deleted">Deleted successfully</string>
+</resources>
